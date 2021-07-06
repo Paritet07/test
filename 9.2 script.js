@@ -27,9 +27,6 @@ let personalMovieDB ={
     genres: [],
     privat: false
 };
-
-
-
 let a = prompt ( 'Один из последних просмотренных фильмов?', '');
 let b = prompt ('На сколько оцените его?', '');
 let c = prompt ( 'Один из последних просмотренных фильмов?', '');
